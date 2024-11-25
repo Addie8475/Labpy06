@@ -1,5 +1,9 @@
 # Program sederhana data nilai mahasiswa menggunakan fungsi
 
+**Flowchart**
+
+![Flowchart](https://github.com/user-attachments/assets/80757e87-7841-4ca3-8f4d-9c8522d85762)
+
 **Kode Python**
 
 ![Screenshot_7](https://github.com/user-attachments/assets/71a18110-c0f1-4153-bf1f-b31cefb5ff09)
